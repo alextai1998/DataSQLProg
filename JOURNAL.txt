@@ -1,2 +1,2 @@
-8/22/2016
-Hello
+8/25/2016
+Today is the first time I am attending this course. I am really excited to learn about SQL and databases. We created our own poke-centres and used these data to create a fictional database. We identified the potential pitfalls that can happen with our spreadsheet database system and ended up placing all the spreadsheet data into a universal spreadsheet. Later on, we recognized pitfalls of using the same universal spreadsheet. We learned that the DBMS would have to manage these issues. 
