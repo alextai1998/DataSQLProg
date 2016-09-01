@@ -1,2 +1,2 @@
-8/29/2016
-Today we used the poke-centres we created last class and we extracted independent tables from the Unique Centralised Database. We then tried to describe the relationship between the tables and identified the schemas and the key attributes, also known as primary keys. We learned that a database represents some aspect of the real world. We learned that it is a logically coherent collection of data with some inherent meaning. We also learned that a random assortment of data cannot be considered a database. Later on, we learned that the whole exercise is called the database schema. 
+9/1/2016
+Today we came to class with several additional relations to our movie database. We learned about ER diagrams and learned about the different shapes and what it meant. We then spent the majority of the rest of the period trying to put our movie database into an ER diagram so that it is east for us to see the conceptual structure of our data.
