@@ -1,2 +1,2 @@
-10/6/2016
-OMG…so it has been a while since I’ve updated my journal because I have been super busy with SATs and college essays. In order to tackle this issue, I have not set an alarm clock every Monday, Wednesday, and Thursday to remind me to write a journal entry. Today in class we talked about the third normalization and the form 3NF. We looked at an example and determined whether or not the database schema in 2NF consists of anomolies. We found out that it does and attempted to solve the issue, Turned out, the solution to our problems and the process in which we solved our issues are the rules and remedies for the 3rd normalization form!
+10/12/2016
+Today’s class was short due to college visit. Today in class we reviewed our normalizations and the class ended with us pairing up and each taking up a real life database and try to improve it.
