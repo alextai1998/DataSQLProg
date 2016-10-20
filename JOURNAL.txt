@@ -1,2 +1,2 @@
-10/12/2016
-Today’s class was short due to college visit. Today in class we reviewed our normalizations and the class ended with us pairing up and each taking up a real life database and try to improve it.
+10/20/2016
+Today in class, we went over the Boyce-Codd Normal Form (BCFN) by trying to explain it to 8 year old kids. We then got introduced to our midterm project that is due on Friday. I chose the World University Ranking dataset.
