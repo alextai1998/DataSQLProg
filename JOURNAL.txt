@@ -1,2 +1,2 @@
-10/20/2016
-Today in class, we went over the Boyce-Codd Normal Form (BCFN) by trying to explain it to 8 year old kids. We then got introduced to our midterm project that is due on Friday. I chose the World University Ranking dataset.
+10/24/2016
+This week it is midterm week so we had the class time to simply work on our midterm projects. I have finished my ER diagrams and my relational schemas but I haven’t started on the process normalization.
