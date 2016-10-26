@@ -1,2 +1,2 @@
-10/24/2016
-This week it is midterm week so we had the class time to simply work on our midterm projects. I have finished my ER diagrams and my relational schemas but I haven’t started on the process normalization.
+10/26/2016
+Same as last class, we took the class time to work on our Midterm Projects. 
