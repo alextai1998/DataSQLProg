@@ -1,2 +1,2 @@
-11/10/2016
-I’m finally back haha. I’ve missed the last two classes because I was really ill. Today I felt really overwhelmed because I didn’t know what to do or how much I’ve missed. It is slightly better now cuz I went to find Dr. Pinzon after school. I am planning to play around with the SQL workbench during the weekend!
+11/14/2016
+We worked on a practice last time. We created two tables regarding movies. 
