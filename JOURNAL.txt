@@ -1,2 +1,2 @@
-12/12/2016
-We worked on the sakila database today and discussed the finals.
+12/15/2016
+Today we did our round of queries and Sabrina and I failed miserably :(
